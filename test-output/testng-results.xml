@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9005" started-at="2021-03-13T04:37:25Z" finished-at="2021-03-13T04:37:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9005" started-at="2021-03-13T04:37:25Z" finished-at="2021-03-13T04:37:34Z">
+      <class name="test.AddCatagoryTest">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:test.AddCatagoryTest@105fece7]" name="startBrowser" is-config="true" duration-ms="3185" started-at="2021-03-13T04:37:25Z" finished-at="2021-03-13T04:37:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="addCatagory()[pri:0, instance:test.AddCatagoryTest@105fece7]" name="addCatagory" duration-ms="5083" started-at="2021-03-13T04:37:28Z" finished-at="2021-03-13T04:37:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCatagory -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.AddCatagoryTest@105fece7]" name="tearDown" is-config="true" duration-ms="707" started-at="2021-03-13T04:37:33Z" finished-at="2021-03-13T04:37:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.AddCatagoryTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
